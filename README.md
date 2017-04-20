@@ -31,5 +31,6 @@ Range is defined for any comparable type.
 ## How to implement Ranges?
 ![picture alt](http://imgur.com/eCkDHMF.png)
 
-
+Integral type ranges like (IntRange, LongRange, CharRange) have extra features: they can be iterated over.
+![picture alt](http://imgur.com/9IHJV9z.png)
 ## Other uses for Ranges?
