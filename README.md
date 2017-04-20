@@ -13,7 +13,7 @@ The Kotlin List<out T> type is an interface that provides read only operations.
 Operator Overloading is the praxis of implementing functions on the fixed set of operators. 
 
 ## How to implement Collections?
-![picture alt](http://imgur.com/TRA63sd)
+![picture alt](http://imgur.com/TRA63sd.png)
 
        )
    }
