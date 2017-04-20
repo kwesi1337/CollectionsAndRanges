@@ -4,7 +4,7 @@ The published version of this app made by [Timm Rasmussen, Waqas Mohiuddin, Joak
 
 [Rational Calculator](https://play.google.com/store/apps/details?id=dk.cphbusiness.template)
 
-#What is Collections?
+## What is Collections?
 
 In Kotlin, there is a distinction between mutable and immutable collections(lists, sets, maps). There is control over exactly  when collections can be edited, which is useful for finding and eliminating bugs, and for API design.
 
@@ -15,3 +15,6 @@ The Kotlin List<out T> type is an interface that provides read only operations.
 ![picture alt](http://imgur.com/TRA63sd.png)
 
   
+## Other uses for Collections
+Sometimes you want to return a snapshot of a collection to the caller at a specific time, and that shouldnt change.
+![picture alt](http://imgur.com/6TKo5mA.png)
