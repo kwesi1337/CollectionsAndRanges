@@ -31,6 +31,13 @@ Range is defined for any comparable type.
 ## How to implement Ranges?
 ![picture alt](http://imgur.com/eCkDHMF.png)
 
+
+## Other uses for Ranges?
 Integral type ranges like (IntRange, LongRange, CharRange) have extra features: they can be iterated over.
 ![picture alt](http://imgur.com/9IHJV9z.png)
-## Other uses for Ranges?
+
+If you want to iterate over numbers in reverse order you can use the downTo() function
+
+
+Utility functions
+the rangeTo() operators call the constructors of *Range classes
