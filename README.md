@@ -2,7 +2,6 @@
 
 The published version of this app made by [Timm Rasmussen, Waqas Mohiuddin, Joakim Toftgaard-Hansen, Joseph Awwal](https://github.com/x) can be found on Google Play
 
-[GoogleMap  App](x)
 
 ## What is Collections?
 A collection framework i
